@@ -94,20 +94,7 @@
 
 ## Github Stats
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="left" style="width: 100%" />
-
-</td>
-<td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand" align="center" /></div>
-
-</td>
-</tr>
-</table>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>
 
 <br/>
 
