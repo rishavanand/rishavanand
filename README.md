@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Rishav, a software consultant and an indie hacker 👨‍💻 working remotely since 2013 🚀</div>  
   
 
 - 🔭 I’m currently working on [BrewMyTech](https://www.brewmytech.com) & [RewardMatrix](https://www.rewardmatrix.com)  
