@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div>Hi! I'm Rishav, a software consultant and a weekend builder.</div>  
 
 #### Projects under my belt:
