@@ -1,4 +1,4 @@
-### <div>Hi! I'm Rishav, a software consultant and a weekend builder.</div>  
+### <div>Hi! I'm Rishav, a software consultant and weekend builder.</div>  
 
 #### Projects under my belt:
 - [RewardMatrix]() - Credit Card Explorer and Benefit Tracker for India 🇮🇳 [product]
