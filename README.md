@@ -1,8 +1,8 @@
 ### <div>Hi! I'm Rishav, a software consultant and weekend builder.</div>  
 
 #### Projects under my belt:
-- [RewardMatrix]() - Credit Card Explorer and Benefit Tracker for India 🇮🇳 [product]
-- [MaxTime]() - Tool for the finding best window to use Claude Code [open-source] [just released]
+- [RewardMatrix](https://www.rewardmatrix.in/) - Credit Card Explorer and Benefit Tracker for India 🇮🇳 [product]
+- [MaxTime](https://maxtime.dev/) - Tool for the finding best window to use Claude Code [open-source] [just released]
 - [OpenBatcher]() - LLM batching system that reduces cost by 50% [open-source] [upcoming]
 - [Profilinator]() - Light open source GitHub Profile Readme Builder [archived]
 
