@@ -3,9 +3,10 @@
 #### Projects under my belt:
 <ul>
   <li><a href="https://www.rewardmatrix.in/" target="_blank" rel="noopener noreferrer">RewardMatrix</a> - Credit Card Explorer and Benefit Tracker for India 🇮🇳 [product]</li>
-  <li><a href="https://maxtime.dev/" target="_blank" rel="noopener noreferrer">MaxTime</a> - Tool for the finding best window to use Claude Code [open-source] [just released]</li>
+  <li><a href="https://xplainer.video/" target="_blank" rel="noopener noreferrer">xplainer.video</a> - Helping agents create explain videos [open-source productivity tool]</li>
+  <!-- <li><a href="https://maxtime.dev/" target="_blank" rel="noopener noreferrer">MaxTime</a> - Tool for the finding best window to use Claude Code [open-source] [just released]</li>
   <li><a href="" target="_blank" rel="noopener noreferrer">OpenBatcher</a> - LLM batching system that reduces cost by 50% [open-source] [upcoming]</li>
-  <li><a href="" target="_blank" rel="noopener noreferrer">Profilinator</a> - Light open source GitHub Profile Readme Builder [archived]</li>
+  <li><a href="" target="_blank" rel="noopener noreferrer">Profilinator</a> - Light open source GitHub Profile Readme Builder [archived]</li> -->
 </ul>
 
 
